@@ -3,9 +3,5 @@
   display: none;
 }
 div ~ div {
-  display: none;
-}
-
-#tag ~ div {
-  display: none;
+  display: none !important;
 }
