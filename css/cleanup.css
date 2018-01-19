@@ -9,3 +9,7 @@ div ~ div {
 body #wall #tag-2 {
   display:none;
 }
+
+body #wall #tag-3 {
+  display:none;
+}
