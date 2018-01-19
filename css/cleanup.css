@@ -7,9 +7,9 @@ div ~ div {
 }
 
 body #wall #tag-2 {
-  display:none;
+  display: none;
 }
 
 body #wall #tag-3 .slick {
-  display:none;
+  display: none;
 }
