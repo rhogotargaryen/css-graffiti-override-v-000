@@ -5,3 +5,7 @@
 div ~ div {
   display: none;
 }
+
+#tag ~ div {
+  display: none;
+}
